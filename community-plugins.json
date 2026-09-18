@@ -54332,5 +54332,12 @@
     "author": "Fokus",
     "description": "Two-way sync between your vault and Fokus notes, with tags, buckets, and embedded images. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "getfokus-app/obsidian-plugin"
+  },
+  {
+    "id": "tyto",
+    "name": "Tyto",
+    "author": "Ilya Paripsa",
+    "description": "Talk to your Obsidian notes. Edit text, format structure, and ask questions about what's in them.",
+    "repo": "iparips/obsidian-tyto"
   }
 ]
